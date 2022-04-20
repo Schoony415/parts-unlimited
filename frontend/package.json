@@ -5,7 +5,7 @@
   "proxy": "http://localhost:8080",
   "dependencies": {
     "@babel/core": "^7.17.0",
-    "@emotion/react": "^11.7.1",
+    "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.6.0",
     "@mui/material": "^5.4.0",
     "@types/react": "^17.0.38",

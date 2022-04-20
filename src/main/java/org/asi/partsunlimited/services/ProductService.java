@@ -20,4 +20,6 @@ public class ProductService {
     public List<Product> getProducts() {
         return productRepository.findAll();
     }
+
+    public void modifyAll(Iterable<Product> products) {productRepository.saveAll(products);}
 }
